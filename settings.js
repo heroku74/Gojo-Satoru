@@ -21,10 +21,10 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['923228182188']
 global.premium = ['923228182188']
-global.ownernomer = '923228182188'
+global.ownernomer = '923180233284'
 global.ownername = '𝗝ᑌ𝗡ᗴ𝗗 𝗔ᒪ𝗬'
 global.botname = '𝗝ᑌ𝗡ᗴ𝗗_𝗔ᒪ𝗬'
-global.footer = '𝗚ᗴ𝗡ᗴ𝗥ᗩ𝗧ᗴ𝗗 𝗕Y 𝗝ᑌ𝗡ᗴ𝗗 𝗔ᒪ𝗬.'
+global.footer = '𝗚ᗴ𝗡ᗴ𝗥ᗩ𝗧ᗴ𝗗 𝗕Y 𝗝ᑌ𝗡ᗴ𝗗 𝗔ᒪ𝗬'
 global.ig = 'https:/juned_aly_74/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
