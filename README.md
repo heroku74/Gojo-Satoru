@@ -4,7 +4,7 @@
 
 ## 𝗝ᑌ𝗡ᗴ𝗗_𝗔ᒪ𝗬
 
-> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
 
@@ -15,10 +15,10 @@
 
 </br>
 
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/nexusNw/Gojo-Satoru"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/nexusNw"><img title="Author" src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" /></a>  
+<a href="https://github.com/nexusNw/Gojo-Satoru"><img title="Stars" src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" /></a>
+<a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" /></a>
+<a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" /></a> <br>
 
 ---
 
@@ -123,8 +123,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/918129624000"><img src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" />
+<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://i.ibb.co/QrWxbL4/Pics-Art-09-12-01-25-17.jpg" /><br>
 </p>
 
 </details>
