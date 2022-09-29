@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/stB7vRT/Pics-Art-09-25-02-45-45.jpg" alt="nz" width="350"/>
 </p>
 
 ## 𝗝ᑌ𝗡ᗴ𝗗_𝗔ᒪ𝗬
