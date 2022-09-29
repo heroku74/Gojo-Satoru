@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## 𝗝ᑌ𝗡ᗴ𝗗_𝗔ᒪ𝗬
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["923180233284"]
+global.ownername = ["𝗝ᑌ𝗡ᗴ𝗗_𝗔ᒪ𝗬"]
 ```
 </details>
 
